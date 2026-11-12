@@ -52,6 +52,7 @@ I enjoy combining mathematics, programming, and analytical thinking to understan
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat&logoColor=black)
 
 ### LLM / Generative AI
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat&logo=openai&logoColor=white)
 
